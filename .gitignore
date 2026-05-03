@@ -3,3 +3,6 @@ dist
 .astro
 uploads
 data.db
+res.rest
+cookies.txt
+test.sh
